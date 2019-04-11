@@ -34,7 +34,7 @@
 
 Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
-来自大家的关注、维护和贡献，才是让这个浙江大学独有的攻略本继续存在的动力~
+来自大家的关注、维护和贡献，才是让这个广州交通大学独有的攻略本继续存在的动力~
 
 提交 PR：Fork 本项目，然后在 GitHub 网页端点击 Upload File 上传文件，发起 PR 即可。留意一下项目的文件组织喔。
 
@@ -49,6 +49,16 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 上传文件到已有文件夹：打开对应文件夹，点击绿色Download按钮旁的upload，上传你的文件。
 
 上传文件到新文件夹：打开任意文件夹，点击绿色Download按钮旁的upload，把浏览器地址栏中文件夹名称改为你想要新建的文件夹名称，然后回车，上传你的文件。
+
+## **关于GitHub**
+这里为第一次了解GitHub的同学讲解一下
+* gitHub是一个面向开源及私有软件项目的托管平台，因为只支持git 作为唯一的版本库格式进行托管，故名gitHub。
+* fork : 创建源项目代码库的分支，并拷贝到自己的账号中
+* star: 关注别人项目更新
+* watch: 设置接收邮件提醒，邮件提醒包括Issues and their comments、Pull Requests and their comments、Comments on any commits  
+* star和watch的区别在于前者不会把项目的动态展示在你的dashboard 里，仅作为收藏功能
+* [Git五分钟教程](http://www.runoob.com/w3cnote/git-five-minutes-tutorial.html)
+* [Git 教程](http://www.runoob.com/git/git-tutorial.html)
 
 ## **相关链接**
 * [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
