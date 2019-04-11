@@ -66,5 +66,6 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 其他部分的版权归属于其各自的作者。
 
 
->>引用自[QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily#%E5%89%8D%E8%A8%80)
->>>本项目严禁被应用于商业用途
+>引用自[QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily#%E5%89%8D%E8%A8%80)
+
+>本项目严禁被应用于商业用途
